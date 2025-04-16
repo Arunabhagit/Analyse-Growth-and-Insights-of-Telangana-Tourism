@@ -14,3 +14,19 @@ Additionally, the project will include a predictive analysis to estimate future 
 
 For this project, I collected tourism data from all 34 districts of Telangana, covering the years 2016 to 2019. The data includes daily records of both domestic and foreign tourists. Initially, I had eight separate CSV files—four for domestic tourists and four for foreign tourists, each corresponding to one year. To streamline the analysis, I merged all these datasets into a single CSV file, allowing for a comprehensive and unified view of tourism trends over the four-year period.
 
+# Tools Used
+
+For this project, I utilized several tools to perform comprehensive analysis and generate meaningful insights. I used PostgreSQL to execute SQL queries for data exploration, pattern identification, and calculations such as the Compound Annual Growth Rate (CAGR) of visitors and the ratio between domestic and foreign tourists.
+
+In addition, I used Python for deeper analysis, including identifying monthly and daily visitor patterns, and analyzing district-wise growth trends.
+
+To visualize insights effectively, I created an interactive Power BI dashboard. This dashboard presents analyses such as day-wise and year-wise visitor trends, highlights the best and worst performing districts, and includes future projections to estimate potential visitors and expected tourism revenue.
+
+
+
+
+
+
+
+
+
