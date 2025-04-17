@@ -16,11 +16,11 @@ For this project, I collected tourism data from all 34 districts of Telangana, c
 
 # Tools Used
 
-For this project, I utilized several tools to perform comprehensive analysis and generate meaningful insights. I used PostgreSQL to execute SQL queries for data exploration, pattern identification, and calculations such as the Compound Annual Growth Rate (CAGR) of visitors and the ratio between domestic and foreign tourists.
+For this project, I utilized several tools to perform comprehensive analysis and generate meaningful insights. I used **PostgreSQL** to execute SQL queries for data exploration, pattern identification, and calculations such as the Compound Annual Growth Rate (CAGR) of visitors and the ratio between domestic and foreign tourists.
 
-In addition, I used Python for deeper analysis, including identifying monthly and daily visitor patterns, and analyzing district-wise growth trends.
+In addition, I used **Python** for deeper analysis, including identifying monthly and daily visitor patterns, and analyzing district-wise growth trends.I used Google Colab platform to do coding 
 
-To visualize insights effectively, I created an interactive Power BI dashboard. This dashboard presents analyses such as day-wise and year-wise visitor trends, highlights the best and worst performing districts, and includes future projections to estimate potential visitors and expected tourism revenue.
+To visualize insights effectively, I created an interactive **Power BI** dashboard. This dashboard presents analyses such as day-wise and year-wise visitor trends, highlights the best and worst performing districts, and includes future projections to estimate potential visitors and expected tourism revenue.
 
 
 # Let's Check Some Key Insights(yearly ,monthly) Of Telegana Tourism
@@ -30,7 +30,7 @@ To visualize insights effectively, I created an interactive Power BI dashboard. 
 
 ![Yealy Growth](https://github.com/user-attachments/assets/dc2aed59-8011-4ca8-a8ff-f714209ea067)
 
-The yearly rise and fall in visitor numbers appears to be influenced by factors such as Sundays, holidays, and temporary closures of certain spots. These special days likely impacted overall footfall throughout the years. Notably, there was a decline in visitors in 2019 compared to 2018. Despite these fluctuations, the average number of visitors each year remained relatively stable, around 120,000. This suggests a consistent annual interest, even though external factors caused temporary variations in monthly or seasonal visitor trends. 
+The yearly rise and fall in visitor numbers appears to be influenced by factors such as Sundays, holidays, and temporary closures of certain spots. These special days likely impacted overall footfall throughout the years. Notably, there was a decline in visitors in 2019 compared to 2018. Despite these fluctuations, the average number of visitors each year remained relatively stable, around **120,000**. This suggests a consistent annual interest, even though external factors caused temporary variations in monthly or seasonal visitor trends. 
 
 **Next we have to see monthly visitors trends that implict seasonal , occational growth**
 
@@ -42,7 +42,7 @@ To explore visitor trends more deeply, I analyzed monthly data and found that Fe
 
 ![Screenshot 2025-04-17 211640](https://github.com/user-attachments/assets/15fb9ef8-f610-4c5b-ae27-664b936921cf)
 
-From 2016 to 2019, Telangana saw a consistently high number of domestic visitors, averaging around 89 million annually, while foreign visitors remained significantly lower in comparison 2019 year. Domestic tourism peaked in 2018, while foreign tourist numbers steadily increased each year, reaching over 323,000 in 2019. The data highlights Telangana's strong domestic tourism base with  international interest building over the years.
+From 2016 to 2019, Telangana saw a consistently high number of domestic visitors, averaging around **89 million** annually, while foreign visitors remained significantly lower in comparison 2019 year. Domestic tourism peaked in 2018, while foreign tourist numbers steadily increased each year, reaching over **323,000** in 2019. The data highlights Telangana's strong domestic tourism base with  international interest building over the years.
 
 **Based on these insights, we can effectively understand the yearly and monthly trends of tourist activity and observe the overall growth in visitor numbers. This analysis provides a strong foundation for identifying key patterns in tourism behavior. Moving forward, we will dive deeper into the data to uncover more meaningful insights, address potential challenges, and explore trends that could inform strategic decisions and planning for future tourism-related projects.**
 
