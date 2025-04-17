@@ -37,3 +37,10 @@ The yearly rise and fall in visitor numbers appears to be influenced by factors 
 ![monthly growth](https://github.com/user-attachments/assets/ada2448c-a3b6-48ed-b0e9-07df97d73c86)
 
 To explore visitor trends more deeply, I analyzed monthly data and found that February recorded the highest number of tourists. With Telangana's average temperature around 33°C during this time, the weather is pleasant for sightseeing. June also shows a rise in visitors due to the onset of the monsoon and summer vacations, offering lush green landscapes and waterfalls. Interestingly, December, usually a peak tourist season, showed a drop in footfall. This could be due to colder nights in recent years and shifting travel preferences, as many tourists may choose to travel during the holidays themselves rather than before or after.
+
+**Let's Check Domestic and Foreign Visitors Trends of Yearly**
+
+![Domestic](https://github.com/user-attachments/assets/c6fcd32a-5c72-4202-bdad-9600e9a67575)
+
+
+
