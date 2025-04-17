@@ -23,10 +23,20 @@ In addition, I used Python for deeper analysis, including identifying monthly an
 To visualize insights effectively, I created an interactive Power BI dashboard. This dashboard presents analyses such as day-wise and year-wise visitor trends, highlights the best and worst performing districts, and includes future projections to estimate potential visitors and expected tourism revenue.
 
 
+# Let's Check Some Key Insights  Of Telegana Tourism
+
+**As I have only 2016-2019 data so  at first check the yearly growth of tourists in Telangana.** 
 
 
+![Yealy Growth](https://github.com/user-attachments/assets/dc2aed59-8011-4ca8-a8ff-f714209ea067)
 
+The yearly rise and fall in visitor numbers appears to be influenced by factors such as Sundays, holidays, and temporary closures of certain spots. These special days likely impacted overall footfall throughout the years. Notably, there was a decline in visitors in 2019 compared to 2018. Despite these fluctuations, the average number of visitors each year remained relatively stable, around 120,000. This suggests a consistent annual interest, even though external factors caused temporary variations in monthly or seasonal visitor trends. 
 
+**Next we have to see monthly visitors trends that implict seasonal , occational growth**
+
+![monthly growth](https://github.com/user-attachments/assets/ada2448c-a3b6-48ed-b0e9-07df97d73c86)
+
+So I go into the deep drive to check monthly trends of visitors we 
 
 
 
