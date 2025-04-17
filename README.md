@@ -40,7 +40,6 @@ To explore visitor trends more deeply, I analyzed monthly data and found that Fe
 
 **Let's Check Domestic and Foreign Visitors Trends of Yearly**
 
-![Domestic](https://github.com/user-attachments/assets/c6fcd32a-5c72-4202-bdad-9600e9a67575)
+![Screenshot 2025-04-17 211640](https://github.com/user-attachments/assets/15fb9ef8-f610-4c5b-ae27-664b936921cf)
 
-
-
+From 2016 to 2019, Telangana saw a consistently high number of domestic visitors, averaging around 89 million annually, while foreign visitors remained significantly lower in comparison 2019 year. Domestic tourism peaked in 2018, while foreign tourist numbers steadily increased each year, reaching over 323,000 in 2019. The data highlights Telangana's strong domestic tourism base with  international interest building over the years.
