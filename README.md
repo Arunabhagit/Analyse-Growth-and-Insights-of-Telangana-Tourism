@@ -23,7 +23,7 @@ In addition, I used Python for deeper analysis, including identifying monthly an
 To visualize insights effectively, I created an interactive Power BI dashboard. This dashboard presents analyses such as day-wise and year-wise visitor trends, highlights the best and worst performing districts, and includes future projections to estimate potential visitors and expected tourism revenue.
 
 
-# Let's Check Some Key Insights  Of Telegana Tourism
+# Let's Check Some Key Insights(yearly ,monthly) Of Telegana Tourism
 
 **As I have only 2016-2019 data so  at first check the yearly growth of tourists in Telangana.** 
 
@@ -43,3 +43,9 @@ To explore visitor trends more deeply, I analyzed monthly data and found that Fe
 ![Screenshot 2025-04-17 211640](https://github.com/user-attachments/assets/15fb9ef8-f610-4c5b-ae27-664b936921cf)
 
 From 2016 to 2019, Telangana saw a consistently high number of domestic visitors, averaging around 89 million annually, while foreign visitors remained significantly lower in comparison 2019 year. Domestic tourism peaked in 2018, while foreign tourist numbers steadily increased each year, reaching over 323,000 in 2019. The data highlights Telangana's strong domestic tourism base with  international interest building over the years.
+
+**Based on these insights, we can effectively understand the yearly and monthly trends of tourist activity and observe the overall growth in visitor numbers. This analysis provides a strong foundation for identifying key patterns in tourism behavior. Moving forward, we will dive deeper into the data to uncover more meaningful insights, address potential challenges, and explore trends that could inform strategic decisions and planning for future tourism-related projects.**
+
+# Let's Check Deeper Insights and answer some questions
+
+
