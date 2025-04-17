@@ -48,4 +48,3 @@ From 2016 to 2019, Telangana saw a consistently high number of domestic visitors
 
 # Let's Check Deeper Insights and answer some questions
 
-
