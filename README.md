@@ -23,7 +23,8 @@ In addition, I used **Python** for deeper analysis, including identifying monthl
 To visualize insights effectively, I created an interactive **Power BI** dashboard. This dashboard presents analyses such as day-wise and year-wise visitor trends, highlights the best and worst performing districts, and includes future projections to estimate potential visitors and expected tourism revenue.
 
 
-# Let's Check Some Key Insights(yearly ,monthly) Of Telegana Tourism
+# Uncovering Yearly and Monthly Trends Of Telangana Tourism From 2016-2019
+
 
 **As I have only 2016-2019 data so  at first check the yearly growth of tourists in Telangana.** 
 
@@ -46,13 +47,13 @@ From 2016 to 2019, Telangana saw a consistently high number of domestic visitors
 
 **Based on these insights, we can effectively understand the yearly and monthly trends of tourist activity and observe the overall growth in visitor numbers. This analysis provides a strong foundation for identifying key patterns in tourism behavior. Moving forward, we will dive deeper into the data to uncover more meaningful insights, address potential challenges, and explore trends that could inform strategic decisions and planning for future tourism-related projects.**
 
-# Let's Check Deeper Insights and answer some questions
+# Deep Drive and Calculation of find Insights From Telangan Tourism 2016-2019 
 
 I observed that 99% of the visitors to tourist spots in Telangana are domestic. Telangana comprises 34 districts, and now I would like to identify the top districts with the highest number of domestic visitors.
 
 I am going to calculate top **10 districts** visitors according to domestic visitor. So for calculating this I prefer SQL Query to fetch some analyse calculation type data
 
-```
+``` sql
 select district , sum(visitors) as toal_visitors 
 from visitor
 where visitor_type = 'Domestic'
