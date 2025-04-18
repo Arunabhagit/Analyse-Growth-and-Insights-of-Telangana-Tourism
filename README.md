@@ -62,11 +62,15 @@ So up next let's see International Visitors . We have already watched that forei
 
 ![question 2](https://github.com/user-attachments/assets/1c2ab25b-c55e-45aa-bc1e-2b3b543f88b0)
 
-As Foreign visitors are very few numbers (less than 1%) but still Hyderabad leads with 1,044,898 visitors for their architectural tourist spots .Another districts are not so much attract foreign visitors till. 
+As Foreign visitors are very few numbers (less than 1%) but still Hyderabad leads with **1,044,898** visitors for their architectural tourist spots .Another districts are not so much attract foreign visitors till. 
+
+Let's Check visitors spread in district of Telangana 
 
 ![map](https://github.com/user-attachments/assets/5a11831d-31f2-4764-8d2c-9fd293307b3a)
 
 
-So Let's I have to 
+So Let's I have to check growth of visitors in districts so I need to calculate compounded annual growth rate. This implict yearly tourist growth of district . I want to check which 3 districts are top and which 3 districts are bottom for watch the growth pattern of Telangana districts
+
+
 
 
