@@ -51,14 +51,17 @@ From 2016 to 2019, Telangana saw a consistently high number of domestic visitors
 
 I observed that 99% of the visitors to tourist spots in Telangana are domestic. Telangana comprises 34 districts, and now I would like to identify the top districts with the highest number of domestic visitors.
 
-I am going to calculate top **10 districts** visitors according to domestic visitor. So for calculating this I prefer SQL Query to fetch some analyse calculation type data
+I am going to calculate top **10 districts** visitors according to domestic visitor. 
 
-``` sql
-select district , sum(visitors) as toal_visitors 
-from visitor
-where visitor_type = 'Domestic'
-group by 1
-order by 2 desc
-limit 10
+![question 1](https://github.com/user-attachments/assets/55d17d20-9a60-4fd0-b68c-04a98c8c0ed1)
 
-```
+So ,The **Hyderabad** is the most one that atract domestic visitors  also **Rajanna Sircilla**, **Warangal (Urban)** these are most growing districts attracting domestic visitors.
+
+
+So up next let's see International Visitors . We have already watched that foreign visitors are growing in every years so we have to see which districts are attracting more  
+
+![question 2](https://github.com/user-attachments/assets/1c2ab25b-c55e-45aa-bc1e-2b3b543f88b0)
+
+
+
+
