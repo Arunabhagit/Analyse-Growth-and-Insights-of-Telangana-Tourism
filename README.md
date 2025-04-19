@@ -69,7 +69,7 @@ Let's Check visitors spread in district of Telangana
 ![map](https://github.com/user-attachments/assets/5a11831d-31f2-4764-8d2c-9fd293307b3a)
 
 
-To analyze the growth of tourism across Telangana districts, I will calculate the Compounded Annual Growth Rate (CAGR) of visitors. This will reflect the yearly growth trend for each district. Based on the CAGR, I will identify the top three and bottom three districts to observe their growth patterns effectively.
+To analyze the growth of tourism across Telangana districts, I will calculate the Compounded Annual Growth Rate (CAGR) of visitors. This will reflect the yearly growth trend for each district. Based on the CAGR, I will identify the top three districts to observe their growth patterns effectively.
 
 
 ![question 3](https://github.com/user-attachments/assets/b8a3dcc3-d2f0-478b-90cd-9b8843df42b4)
@@ -77,5 +77,7 @@ To analyze the growth of tourism across Telangana districts, I will calculate th
 The CAGR implicts the districts those tourist are rapidly growing into the 4 years. So in their Karimnagar is the top most rapdily growing district due to historical sites, improved infrastructure, cultural heritage, and scenic beauty.
 
 ![question 4](https://github.com/user-attachments/assets/f986b0bf-733e-4c6b-98c2-da75c17d74b1)
+
+As we have seen Hyderabad have highest Foreign  visiors also their annual compound growth of foreigner visitor is to high cause of their popularity. 
 
 
