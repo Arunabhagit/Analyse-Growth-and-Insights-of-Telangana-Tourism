@@ -80,7 +80,14 @@ The CAGR implicts the districts those tourist are rapidly growing into the 4 yea
 
 ![question 4](https://github.com/user-attachments/assets/f986b0bf-733e-4c6b-98c2-da75c17d74b1)
 
-As we have seen Hyderabad have highest Foreign  visiors also their annual compound growth of foreigner visitor is to high cause of their popularity. 
+As I have seen Hyderabad have highest Foreign  visiors also their annual compound growth of foreigner visitor is to high cause of their popularity. 
 
+Now , I will analyse the ratio of domestic and foreign visitor for every districts . It help help the understand the density of visitor types like some  districts has high domestic visitors but low foreign visitors. Let's check top 3 district and bottom 3 district with domestic and foreign visitors ratio 
 
+![ratio](https://github.com/user-attachments/assets/7863d4c0-cd2d-4755-a1aa-26b1d93108fb)
 
+Nirmal district has highest ratio . Nirmal ,Jangaon districts mainly depends upon on domestic visitors their foreign visitors are too low in ratio.It maybe cause their infrastructure , foods or attracting of tourist spot mainly attracted to domestic tourists
+
+![ratio 2](https://github.com/user-attachments/assets/24067a44-6455-4f8d-b428-7b296364b92f)
+
+Hyderabad is lowest ratio cause their are no such difference of number of domestic and foreign tourist . As the hyderabad is the capital of Telangana no such as huge difference in domestic and foreign tourist .  
