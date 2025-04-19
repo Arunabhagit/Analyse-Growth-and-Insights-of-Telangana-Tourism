@@ -76,4 +76,6 @@ To analyze the growth of tourism across Telangana districts, I will calculate th
 
 The CAGR implicts the districts those tourist are rapidly growing into the 4 years. So in their Karimnagar is the top most rapdily growing district due to historical sites, improved infrastructure, cultural heritage, and scenic beauty.
 
+![question 4](https://github.com/user-attachments/assets/f986b0bf-733e-4c6b-98c2-da75c17d74b1)
+
 
