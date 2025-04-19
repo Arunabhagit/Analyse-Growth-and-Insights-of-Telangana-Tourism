@@ -53,14 +53,16 @@ I observed that 99% of the visitors to tourist spots in Telangana are domestic. 
 
 I am going to calculate top **10 districts** visitors according to domestic visitor. 
 
-![question 1](https://github.com/user-attachments/assets/55d17d20-9a60-4fd0-b68c-04a98c8c0ed1)
+![stasts](https://github.com/user-attachments/assets/f671940b-f041-440a-b9ee-cfb1a110e2fb)
+
 
 So ,The **Hyderabad** is the most one that atract domestic visitors  also **Rajanna Sircilla**, **Warangal (Urban)** these are most growing districts attracting domestic visitors.
 
 
 So up next let's see International Visitors . We have already watched that foreign visitors are growing in every years so we have to see which districts are attracting more  
 
-![question 2](https://github.com/user-attachments/assets/1c2ab25b-c55e-45aa-bc1e-2b3b543f88b0)
+![stats 2](https://github.com/user-attachments/assets/55831d55-4630-48fd-833e-ea299fc2c2a3)
+
 
 As Foreign visitors are very few numbers (less than 1%) but still Hyderabad leads with **1,044,898** visitors for their architectural tourist spots .Another districts are not so much attract foreign visitors till. 
 
