@@ -86,8 +86,9 @@ Now , I will analyse the ratio of domestic and foreign visitor for every distric
 
 ![ratio](https://github.com/user-attachments/assets/7863d4c0-cd2d-4755-a1aa-26b1d93108fb)
 
-Nirmal district has highest ratio . Nirmal ,Jangaon districts mainly depends upon on domestic visitors their foreign visitors are too low in ratio.It maybe cause their infrastructure , foods or attracting of tourist spot mainly attracted to domestic tourists
+Nirmal district has highest ratio . **Nirmal** ,**Jangaon** districts mainly depends upon on domestic visitors their foreign visitors are too low in ratio.It maybe cause their infrastructure , foods or attracting of tourist spot mainly attracted to domestic tourists
 
 ![ratio 2](https://github.com/user-attachments/assets/24067a44-6455-4f8d-b428-7b296364b92f)
 
-Hyderabad is lowest ratio cause their are no such difference of number of domestic and foreign tourist . As the hyderabad is the capital of Telangana no such as huge difference in domestic and foreign tourist .  
+**Hyderabad** is lowest ratio cause their are no such difference of number of domestic and foreign tourist . As the **Hyderabad** is the capital of Telangana no such as huge difference in domestic and foreign tourist .  
+
