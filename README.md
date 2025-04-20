@@ -92,3 +92,5 @@ Nirmal district has highest ratio . **Nirmal** ,**Jangaon** districts mainly dep
 
 **Hyderabad** is lowest ratio cause their are no such difference of number of domestic and foreign tourist . As the **Hyderabad** is the capital of Telangana no such as huge difference in domestic and foreign tourist .  
 
+
+
