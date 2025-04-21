@@ -80,7 +80,7 @@ The CAGR implicts the districts those tourist are rapidly growing into the 4 yea
 
 ![question 4](https://github.com/user-attachments/assets/f986b0bf-733e-4c6b-98c2-da75c17d74b1)
 
-As I have seen Hyderabad have highest Foreign  visiors also their annual compound growth of foreigner visitor is to high cause of their popularity. 
+As I have seen **Hyderabad** have highest Foreign  visiors also their annual compound growth of foreigner visitor is to high cause of their popularity. 
 
 Now , I will analyse the ratio of domestic and foreign visitor for every districts . It help help the understand the density of visitor types like some  districts has high domestic visitors but low foreign visitors. Let's check top 3 district and bottom 3 district with domestic and foreign visitors ratio 
 
