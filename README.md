@@ -92,5 +92,9 @@ Nirmal district has highest ratio . **Nirmal** ,**Jangaon** districts mainly dep
 
 **Hyderabad** is lowest ratio cause their are no such difference of number of domestic and foreign tourist . As the **Hyderabad** is the capital of Telangana no such as huge difference in domestic and foreign tourist .  
 
+**So From The Comparison of districts I have seen that Hyderabad is most growing district of Telangana . Being capital of Telangana Hyderabad has highest population ratio that's why they are the best tourist spot . Also seen some interesting stats like the highest visitor types ratio where Nirmal District is into the top  this means they have high number of domestic visitors but low number of foreign visitors . Also in deep analysis I calculate compound annual growth where intersting stats Karimnagar is highest CAGR of visitors. In the next Let's see some district's stats (yearly , monthly visitors growth). This will help our next move of future project of some rapidly growing districts**
+
+# Analyzing Some Rapidly Growing Districts Tourist 
+
 
 
