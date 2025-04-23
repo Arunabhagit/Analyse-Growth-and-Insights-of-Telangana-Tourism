@@ -96,4 +96,11 @@ Nirmal district has highest ratio . **Nirmal** ,**Jangaon** districts mainly dep
 
 # Analyzing Some Rapidly Growing Districts Tourist
 
+Let's Analyse some top growing district in Telangana . At first the most popular district and also their capital **Hyderabad** has the highest visitor, best infrastructure . Some popular tourist spot like charminar , Birla Mandir , Zoology park attract both domestic and international visitor
+But still their yearly visitor is ups and down frequently . 
+
+![hyderabad](https://github.com/user-attachments/assets/9785bc0c-2775-4f8a-84d2-98f1afcdca30)
+
+The Infrastructure of Hyderabad is best so they are attracting foreign tourist . So it is sure that Hyderabad will increase visitors count yearly and also generate good estimation revenue . 
+
 
