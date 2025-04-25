@@ -59,10 +59,9 @@ I am going to calculate top **10 districts** visitors according to domestic visi
 So ,The **Hyderabad** is the most one that atract domestic visitors  also **Rajanna Sircilla**, **Warangal (Urban)** these are most growing districts attracting domestic visitors.
 
 
-So up next let's see International Visitors . We have already watched that foreign visitors are growing in every years so we have to see which districts are attracting more  
+So up next let's see International Visitors . We have already watched that foreign visitors are growing in every years so we have to see which districts are attracting more.
 
-![stats 2](https://github.com/user-attachments/assets/55831d55-4630-48fd-833e-ea299fc2c2a3)
-
+![foreign new](https://github.com/user-attachments/assets/dc1a09c5-382c-43ad-8f8e-f288b02f7753)
 
 As Foreign visitors are very few numbers (less than 1%) but still Hyderabad leads with **1,044,898** visitors for their architectural tourist spots .Another districts are not so much attract foreign visitors till. 
 
@@ -96,15 +95,19 @@ Nirmal district has highest ratio . **Nirmal** ,**Jangaon** districts mainly dep
 
 # Analyzing Some Rapidly Growing Districts Tourist
 
-Let's Analyse some top growing district in Telangana . At first the most popular district and also their capital **Hyderabad** has the highest visitor, best infrastructure . Some popular tourist spot like charminar , Birla Mandir , Zoology park attract both domestic and international visitor
-But still their yearly visitor is ups and down frequently . 
-
-![hyderabad](https://github.com/user-attachments/assets/9785bc0c-2775-4f8a-84d2-98f1afcdca30)
+Let's Analyse some top growing district in Telangana . At first the most popular district and also their capital **Hyderabad** has the highest visitor, best infrastructure . Some popular tourist spot like charminar , Birla Mandir , Zoology park attract both domestic and international visitor.They are constanly growing tourism and 50% of visitors prefered Hyderabad.
 
 ![hyderbad](https://github.com/user-attachments/assets/56aa66e0-9f6c-4a20-bf0c-dd9d09d6713b)
 
 Hyderabad has pick tourist at **June** month that means visitors are more prefering summer vacation spends in the 'City of Nizams'
 The Infrastructure of Hyderabad is best so they are attracting foreign tourist . So it is sure that Hyderabad will increase visitors count yearly and also generate good estimation revenue . 
 
-Next understand and analyse 
+So After the Hyderabad their are 2-3 more districts those are increasing rapdily like **Warangal**. This district has two side urban and rural . The urban side is most growing 
+,tourist are increasing yearly . Because of the historic Thousand Pillar Temple (also known as Brindavanam), Warangal Fort (a Kakatiya dynasty architectural marvel), and the serene Laknavaram Lake. 
+
+![warangal](https://github.com/user-attachments/assets/ecd62b7e-809e-488b-9582-29cb4dc76056)
+
+In the month **February** most visitors comes in this tourist spots . Waranagal is also attracting foreign tourist that's why the are second best in foreign tourist count.
+
+
 
