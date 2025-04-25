@@ -101,6 +101,10 @@ But still their yearly visitor is ups and down frequently .
 
 ![hyderabad](https://github.com/user-attachments/assets/9785bc0c-2775-4f8a-84d2-98f1afcdca30)
 
+![hyderbad](https://github.com/user-attachments/assets/56aa66e0-9f6c-4a20-bf0c-dd9d09d6713b)
+
+Hyderabad has pick tourist at **June** month that means visitors are more prefering summer vacation spends in the 'City of Nizams'
 The Infrastructure of Hyderabad is best so they are attracting foreign tourist . So it is sure that Hyderabad will increase visitors count yearly and also generate good estimation revenue . 
 
+Next understand and analyse 
 
