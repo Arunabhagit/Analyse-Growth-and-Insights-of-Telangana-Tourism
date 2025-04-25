@@ -102,12 +102,18 @@ Let's Analyse some top growing district in Telangana . At first the most popular
 Hyderabad has pick tourist at **June** month that means visitors are more prefering summer vacation spends in the 'City of Nizams'
 The Infrastructure of Hyderabad is best so they are attracting foreign tourist . So it is sure that Hyderabad will increase visitors count yearly and also generate good estimation revenue . 
 
-So After the Hyderabad their are 2-3 more districts those are increasing rapdily like **Warangal**. This district has two side urban and rural . The urban side is most growing 
+So After the Hyderabad their are 2 more districts those are increasing rapdily  one of these is **Warangal**. This district has two side urban and rural . The urban side is most growing 
 ,tourist are increasing yearly . Because of the historic Thousand Pillar Temple (also known as Brindavanam), Warangal Fort (a Kakatiya dynasty architectural marvel), and the serene Laknavaram Lake. 
 
 ![warangal](https://github.com/user-attachments/assets/ecd62b7e-809e-488b-9582-29cb4dc76056)
 
 In the month **February** most visitors comes in this tourist spots . Waranagal is also attracting foreign tourist that's why the are second best in foreign tourist count.
+
+Another growing district is Rajanna Sircilla , this district has good tourist spot like some historical and  religious that attracting domestic visitors . This district has a good performance of infrastructure development 
+
+![rajanna](https://github.com/user-attachments/assets/a87ead2c-f664-4862-8ba1-504094b4c698)
+
+Rajanna has a good number of tourist at **January** as the new year and winter time . Like the Singa Samudram Cheruvu , Vemulawada and Nampally tourist spot  mainly attracting visitors starting of the year. 
 
 
 
