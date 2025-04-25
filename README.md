@@ -109,7 +109,7 @@ So After the Hyderabad their are 2 more districts those are increasing rapdily  
 
 In the month **February** most visitors comes in this tourist spots . Waranagal is also attracting foreign tourist that's why the are second best in foreign tourist count.
 
-Another growing district is Rajanna Sircilla , this district has good tourist spot like some historical and  religious that attracting domestic visitors . This district has a good performance of infrastructure development 
+Another growing district is **Rajanna Sircilla** , this district has good tourist spot like some historical and  religious that attracting domestic visitors . This district has a good performance of infrastructure development 
 
 ![rajanna](https://github.com/user-attachments/assets/a87ead2c-f664-4862-8ba1-504094b4c698)
 
