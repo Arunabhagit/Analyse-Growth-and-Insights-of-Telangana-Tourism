@@ -93,7 +93,7 @@ Nirmal district has highest ratio . **Nirmal** ,**Jangaon** districts mainly dep
 
 **So From The Comparison of districts I have seen that Hyderabad is most growing district of Telangana . Being capital of Telangana Hyderabad has highest population ratio that's why they are the best tourist spot . Also seen some interesting stats like the highest visitor types ratio where Nirmal District is into the top  this means they have high number of domestic visitors but low number of foreign visitors . Also in deep analysis I calculate compound annual growth where intersting stats Karimnagar is highest CAGR of visitors. In the next Let's see some district's stats (yearly , monthly visitors growth). This will help our next move of future project of some rapidly growing districts**
 
-# Analyzing Some Rapidly Growing Districts Tourist
+# Analyzing  Top 3 Districts tourist spots & their growth
 
 Let's Analyse some top growing district in Telangana . At first the most popular district and also their capital **Hyderabad** has the highest visitor, best infrastructure . Some popular tourist spot like charminar , Birla Mandir , Zoology park attract both domestic and international visitor.They are constanly growing tourism and 50% of visitors prefered Hyderabad.
 
@@ -115,5 +115,6 @@ Another growing district is **Rajanna Sircilla** , this district has good touris
 
 Rajanna has a good number of tourist at **January** as the new year and winter time . Like the Singa Samudram Cheruvu , Vemulawada and Nampally tourist spot  mainly attracting visitors starting of the year. 
 
-
+**In Telangana, every district boasts its own unique charm, with beautiful tourist spots and stunning architecture that attract visitors from all over. Among them, the top three districts record the highest number of tourists. Additionally, districts like Bhadradri Kothagudem, Mancherial, and Yadadri Bhuvanagiri are also seeing a good number of visitors, with steady year-on-year growth. Each district experiences peak tourist seasons at different times of the year. Therefore, the government should focus on strategies to further boost tourism in these emerging areas.
+Next, I will present a future projection, predicting the yearly growth of visitors and estimating the revenue generation for the years 2025 to 2028**
 
