@@ -116,5 +116,11 @@ Another growing district is **Rajanna Sircilla** , this district has good touris
 Rajanna has a good number of tourist at **January** as the new year and winter time . Like the Singa Samudram Cheruvu , Vemulawada and Nampally tourist spot  mainly attracting visitors starting of the year. 
 
 **In Telangana, every district boasts its own unique charm, with beautiful tourist spots and stunning architecture that attract visitors from all over. Among them, the top three districts record the highest number of tourists. Additionally, districts like Bhadradri Kothagudem, Mancherial, and Yadadri Bhuvanagiri are also seeing a good number of visitors, with steady year-on-year growth. Each district experiences peak tourist seasons at different times of the year. Therefore, the government should focus on strategies to further boost tourism in these emerging areas.
-Next, I will present a future projection, predicting the yearly growth of visitors and estimating the revenue generation for the years 2025 to 2028**
+Next, I will present a future projection, predicting the yearly growth of visitors and estimating the revenue generation for the years 2025 to 2030**
+
+# 2020-2024 Total Tourist Analysis
+
+I have the data of 2016-2019 total 4 years so giving the future prediction I have to calculate the data of 2020-2024 this is unkown for me. So now I have to take some assumption to calculate the data.
+
+For getting assumtion to predict the total tourist of year 2020-2024 I have to see total India's tourism increment rate or decrement rate these year. In the year of 2020 India's Tourism spots visitors decrase approx 60% due to covid 19 
 
