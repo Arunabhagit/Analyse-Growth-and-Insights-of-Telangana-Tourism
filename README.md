@@ -146,6 +146,9 @@ In the line chart, the green color represents the predicted number of visitors f
 
 ![Screenshot 2025-04-29 145803](https://github.com/user-attachments/assets/1a999dfa-fc3f-40d1-b43d-005214a7ab79)
 
-The number of visitors has been steadily increasing each year. In 2025 and 2026, there was a modest growth of 1–2% compared to 2024. However, from 2027 onward, tourism began to surge significantly. The most notable growth occurred between 2028 and 2029, with a remarkable 3–4% increase in visitor numbers. By 2030, the number of tourists is expected to reach a record high. This upward trend in tourism will greatly contribute to the revenue of the Telangana government, boosting the state's economy.
+The number of visitors has been steadily increasing each year. In 2025 and 2026, there will a modest growth of 1–2% compared to 2024. However, from 2027 onward, tourism began to surge significantly. The most notable growth will occurre between 2028 and 2029, with a remarkable 3–4% increase in visitor numbers. By 2030, the number of tourists is expected to reach a record high. This upward trend in tourism will greatly contribute to the revenue of the Telangana government, boosting the state's economy.
 
+# Prediction of Future Revenue from the Telangana Tourism 
+
+I have predict 2025 to 2030 total visitors .So from this data I am going to predict
 
