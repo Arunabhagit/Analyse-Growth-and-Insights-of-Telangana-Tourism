@@ -138,7 +138,7 @@ So I was took assumtion of 2020-2024 data according India's tourist increase and
 
 I am now going to predict the total number of visitors to Telangana for the years 2025 to 2030. For this prediction, I will use historical data from 2016 to 2019, along with the estimated tourist data from 2020 to 2024. These combined figures will serve as the basis for forecasting future trends.
 
-Here is the line chart of **Years** prediction
+**Here is the line chart of Yearly Future prediction**
 
 ![download (1)](https://github.com/user-attachments/assets/b8435d20-7ccf-44ce-bfef-f5e2943f3641)
 
@@ -146,7 +146,6 @@ In the line chart, the green color represents the predicted number of visitors f
 
 ![Screenshot 2025-04-29 145803](https://github.com/user-attachments/assets/1a999dfa-fc3f-40d1-b43d-005214a7ab79)
 
-
-
+The number of visitors has been steadily increasing each year. In 2025 and 2026, there was a modest growth of 1–2% compared to 2024. However, from 2027 onward, tourism began to surge significantly. The most notable growth occurred between 2028 and 2029, with a remarkable 3–4% increase in visitor numbers. By 2030, the number of tourists is expected to reach a record high. This upward trend in tourism will greatly contribute to the revenue of the Telangana government, boosting the state's economy.
 
 
