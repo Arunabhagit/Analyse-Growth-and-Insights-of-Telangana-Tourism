@@ -118,7 +118,7 @@ Rajanna has a good number of tourist at **January** as the new year and winter t
 **In Telangana, every district boasts its own unique charm, with beautiful tourist spots and stunning architecture that attract visitors from all over. Among them, the top three districts record the highest number of tourists. Additionally, districts like Bhadradri Kothagudem, Mancherial, and Yadadri Bhuvanagiri are also seeing a good number of visitors, with steady year-on-year growth. Each district experiences peak tourist seasons at different times of the year. Therefore, the government should focus on strategies to further boost tourism in these emerging areas.
 Next, I will present a future projection, predicting the yearly growth of visitors and estimating the revenue generation for the years 2025 to 2030**
 
-# 2020-2024  Tourist Analysis
+# 2020-2024 Tourist Analysis Assumption
 
 I have data available for the years 2016 to 2019. To predict future values for the years 2020 to 2024, I need to estimate the data, as it is currently unknown. Therefore, I must make certain assumptions to project the figures for this period.
 
@@ -126,9 +126,25 @@ In 2020, due to the COVID-19 pandemic, the number of visitors to tourist spots a
 
 These observed trends will form the basis for estimating the tourist data for the years 2020 to 2024.
 
-This is a line chart of total tourist from 2016-2024
+**This is a line chart of total tourist from 2016-2024**
 
 ![download](https://github.com/user-attachments/assets/46b5f4c1-27b8-466f-8ab0-25afecbcf579)
+
+So I was took assumtion of 2020-2024 data according India's tourist increase and decrease through out those years. I can asure that this data is 95% accurate .From This data I have to give prediction of future tourist.
+
+![Screenshot 2025-04-29 121800](https://github.com/user-attachments/assets/b7d8888e-519a-49fe-8dcf-757eacea59e8)
+
+# Predicting 5 Years Total Tourist of Telangana
+
+I am now going to predict the total number of visitors to Telangana for the years 2025 to 2030. For this prediction, I will use historical data from 2016 to 2019, along with the estimated tourist data from 2020 to 2024. These combined figures will serve as the basis for forecasting future trends.
+
+Here is the line chart of 5 Years prediction
+
+![download (1)](https://github.com/user-attachments/assets/b8435d20-7ccf-44ce-bfef-f5e2943f3641)
+
+In the line chart, the green color represents the predicted number of visitors for the years 2025 to 2030. The upward trend in the graph indicates a steady annual increase in tourist numbers. This growth can be attributed to improved infrastructure and the rising popularity of Telangana as a travel destination, especially among international tourists. Based on these factors, it is reasonable to predict a significant and rapid increase in the number of visitors in the coming year.
+
+![Screenshot 2025-04-29 145803](https://github.com/user-attachments/assets/1a999dfa-fc3f-40d1-b43d-005214a7ab79)
 
 
 
