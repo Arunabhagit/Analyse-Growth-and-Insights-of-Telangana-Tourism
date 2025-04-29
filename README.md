@@ -118,9 +118,19 @@ Rajanna has a good number of tourist at **January** as the new year and winter t
 **In Telangana, every district boasts its own unique charm, with beautiful tourist spots and stunning architecture that attract visitors from all over. Among them, the top three districts record the highest number of tourists. Additionally, districts like Bhadradri Kothagudem, Mancherial, and Yadadri Bhuvanagiri are also seeing a good number of visitors, with steady year-on-year growth. Each district experiences peak tourist seasons at different times of the year. Therefore, the government should focus on strategies to further boost tourism in these emerging areas.
 Next, I will present a future projection, predicting the yearly growth of visitors and estimating the revenue generation for the years 2025 to 2030**
 
-# 2020-2024 Total Tourist Analysis
+# 2020-2024  Tourist Analysis
 
-I have the data of 2016-2019 total 4 years so giving the future prediction I have to calculate the data of 2020-2024 this is unkown for me. So now I have to take some assumption to calculate the data.
+I have data available for the years 2016 to 2019. To predict future values for the years 2020 to 2024, I need to estimate the data, as it is currently unknown. Therefore, I must make certain assumptions to project the figures for this period.
 
-For getting assumtion to predict the total tourist of year 2020-2024 I have to see total India's tourism increment rate or decrement rate these year. In the year of 2020 India's Tourism spots visitors decrase approx 60% due to covid 19 
+In 2020, due to the COVID-19 pandemic, the number of visitors to tourist spots across India dropped sharply—by approximately 60%. In 2021, tourism saw a slight recovery with a modest 5% increase, although the pandemic continued to impact travel significantly. However, by 2022, the situation began to normalize, and the number of tourists started to rise noticeably. This upward trend continued into 2023 and 2024, with tourism numbers showing consistent growth during these years.
+
+These observed trends will form the basis for estimating the tourist data for the years 2020 to 2024.
+
+This is a line chart of total tourist from 2016-2024
+
+![download](https://github.com/user-attachments/assets/46b5f4c1-27b8-466f-8ab0-25afecbcf579)
+
+
+
+
 
