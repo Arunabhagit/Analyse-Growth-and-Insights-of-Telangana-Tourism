@@ -157,3 +157,8 @@ I have predicted the estimated tourism revenue for the upcoming five years. This
 
 The table reflects the projected future revenue for Telangana’s tourism sector, showing a consistent yearly increase. Starting from 2025, Telangana Tourism is expected to implement reasonable pricing for domestic visitors, which is likely to boost domestic tourism further. Additionally, with a steady rise in international tourists— the dip observed between 2016 and 2019—there is potential to revise and increase pricing for foreign visitors, contributing to greater overall revenue.
 
+# Decisions and some Recomendations to the Telangana Goverment
+
+**February** and **June** are peak months for tourism, averaging 170.4K visitors. However, **December** sees lower footfall, despite being a prime tourist season in other states. To boost December tourism, the government should launch strategic initiatives, events, and promotions, investing in attractions that draw visitors
+
+**Hyderabad** ranks as the top district for tourism, drawing 85 million visitors. Notably, foreign tourist numbers are rising annually by 1.43%. To capitalize on this growth, the government should invest in high-quality hotels and restaurants to enhance the visitor experience and attract even more international travelers.
