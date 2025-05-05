@@ -150,11 +150,10 @@ The number of visitors has been steadily increasing each year. In 2025 and 2026,
 
 # Prediction of Future Revenue from the Telangana Tourism 
 
-So now I have predict the estimation revenue of upcoming 5 years . This will help the government of Telangana  that can assumption upcoming years tourism and according to this they will bulid more tourist place in their state also this revenue prediction will help a government set a target of investment for tourism.
+I have predicted the estimated tourism revenue for the upcoming five years. This analysis can assist the Government of Telangana in forecasting future tourism trends. Based on these projections, the government can strategically plan and develop more tourist attractions across the state. Additionally, the revenue estimates will help set realistic investment targets to boost the tourism sector and drive economic growth.
 
 **Here is the future revenue prediction of Telangana Tourism**
-
 ![prediction](https://github.com/user-attachments/assets/293a1ef1-7399-46d0-af09-9f95294900f2)
 
-
+From the table it's reflecting the future revenue of telangana. It seems increasing yearly with a good amount. from 2025 telangana tourism set a resonable price for domestic visitors this will increase domestic tourist and as the international tourist is increasing ( apart from 2016-2019 tourism data) so the price of the foreign tourist increase . 
 
