@@ -161,4 +161,10 @@ The table reflects the projected future revenue for Telangana’s tourism sector
 
 **February** and **June** are peak months for tourism, averaging 170.4K visitors. However, **December** sees lower footfall, despite being a prime tourist season in other states. To boost December tourism, the government should launch strategic initiatives, events, and promotions, investing in attractions that draw visitors
 
-**Hyderabad** ranks as the top district for tourism, drawing 85 million visitors. Notably, foreign tourist numbers are rising annually by 1.43%. To capitalize on this growth, the government should invest in high-quality hotels and restaurants to enhance the visitor experience and attract even more international travelers.
+**Hyderabad** ranks as the top district for tourism, drawing 85 million visitors. Notably, foreign tourist numbers are rising annually by **1.43%**. To capitalize on this growth, the government should invest in high-quality hotels and restaurants to enhance the visitor experience and attract even more international travelers.
+
+The districts of **Rajanna Sircilla**, **Warangal (Urban)**, and **Yadadri Bhuvanagiri** are witnessing rapid growth in domestic tourism, driven by their rich heritage of Hindu temples. To further boost tourism, the government should intensify promotion of these destinations, especially during festive seasons, by organizing cultural events and targeted advertising to attract more domestic travelers.
+
+Tourist spots in districts with poor infrastructure and lack of cleanliness must be identified and prioritized for improvement. The government should invest in rebuilding and maintaining these areas to enhance their appeal. Upgrading facilities and ensuring hygiene will significantly boost visitor interest and promote sustainable tourism growth across these regions.
+
+Conduct monthly surveys targeting tourists to gather feedback on infrastructure and overall experience. Analyze a representative sample from these surveys to assess progress and identify areas needing improvement. Based on data-driven insights, the government can allocate an appropriate budget to enhance infrastructure and elevate the quality of tourist destinations.
