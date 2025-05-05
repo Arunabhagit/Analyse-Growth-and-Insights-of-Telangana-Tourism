@@ -65,7 +65,7 @@ So up next let's see International Visitors . We have already watched that forei
 
 As Foreign visitors are very few numbers (less than 1%) but still Hyderabad leads with **1,044,898** visitors for their architectural tourist spots .Another districts are not so much attract foreign visitors till. 
 
-Let's Check visitors spread in district of Telangana 
+**Let's Check visitors spread in district of Telangana** 
 
 ![map](https://github.com/user-attachments/assets/5a11831d-31f2-4764-8d2c-9fd293307b3a)
 
@@ -142,13 +142,19 @@ I am now going to predict the total number of visitors to Telangana for the year
 
 ![download (1)](https://github.com/user-attachments/assets/b8435d20-7ccf-44ce-bfef-f5e2943f3641)
 
-In the line chart, the green color represents the predicted number of visitors for the years 2025 to 2030. The upward trend in the graph indicates a steady annual increase in tourist numbers. This growth can be attributed to improved infrastructure and the rising popularity of Telangana as a travel destination, especially among international tourists. Based on these factors, it is reasonable to predict a significant and rapid increase in the number of visitors in the coming year.
+In the line chart, the green color represents the predicted number of visitors for the years **2025** to **2030**. The upward trend in the graph indicates a steady annual increase in tourist numbers. This growth can be attributed to improved infrastructure and the rising popularity of Telangana as a travel destination, especially among international tourists. Based on these factors, it is reasonable to predict a significant and rapid increase in the number of visitors in the coming year.
 
 ![Screenshot 2025-04-29 145803](https://github.com/user-attachments/assets/1a999dfa-fc3f-40d1-b43d-005214a7ab79)
 
-The number of visitors has been steadily increasing each year. In 2025 and 2026, there will a modest growth of 1–2% compared to 2024. However, from 2027 onward, tourism began to surge significantly. The most notable growth will occurre between 2028 and 2029, with a remarkable 3–4% increase in visitor numbers. By 2030, the number of tourists is expected to reach a record high. This upward trend in tourism will greatly contribute to the revenue of the Telangana government, boosting the state's economy.
+The number of visitors has been steadily increasing each year. In 2025 and 2026, there will a modest growth of 1–2% compared to 2024. However, from 2027 onward, tourism began to surge significantly. The most notable growth will occurre between **2028** and **2029**, with a remarkable 3–4% increase in visitor numbers. By **2030**, the number of tourists is expected to reach a record high. This upward trend in tourism will greatly contribute to the revenue of the Telangana government, boosting the state's economy.
 
 # Prediction of Future Revenue from the Telangana Tourism 
 
-I have predict 2025 to 2030 total visitors .So from this data I am going to predict
+So now I have predict the estimation revenue of upcoming 5 years . This will help the government of Telangana  that can assumption upcoming years tourism and according to this they will bulid more tourist place in their state also this revenue prediction will help a government set a target of investment for tourism.
+
+**Here is the future revenue prediction of Telangana Tourism**
+
+![prediction](https://github.com/user-attachments/assets/293a1ef1-7399-46d0-af09-9f95294900f2)
+
+
 
