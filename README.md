@@ -189,5 +189,5 @@ This project has taught me a great deal—from creating statistical charts to ex
 
 **Contact Info**
 
-**E-Mail** :- bhattacharyyaarun2001@gmail.com
-**LinkedIn**:-https://www.linkedin.com/in/arunabha2024/
+- **E-Mail** :- bhattacharyyaarun2001@gmail.com
+- **LinkedIn**:-https://www.linkedin.com/in/arunabha2024/
