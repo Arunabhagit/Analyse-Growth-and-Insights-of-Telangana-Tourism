@@ -70,9 +70,8 @@ Additionally, the project aims to apply predictive analysis techniques to foreca
 
 **Power BI** :- https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst
 
-This project has taught me a great deal—from creating statistical charts to extracting meaningful insights, it has been a long and enriching journey. I worked through handling missing data, merging multiple tables, and performing analysis using SQL and Python. The data was then visualized effectively using Power BI. The main objective of the project was to support the Telangana Tourism Department in enhancing their tourism strategy on a larger scale. This work wouldn’t have been possible without the guidance of tutorials I followed. The central analytical focus was on "what" and "how"—understanding what insights the data provides and how to use them for improvement. The insights reveal past trends and performance, while the “how” guides us in making realistic predictions for the future. Instead of using linear regression, I relied on assumptions that felt more practical and applicable. This project is open to all, and for any queries or discrepancies, feel free to contact me via LinkedIn.
 
-**Contact Info**
+# Contact Info
 
 - **E-Mail** :- bhattacharyyaarun2001@gmail.com
 - **LinkedIn**:-https://www.linkedin.com/in/arunabha2024/
