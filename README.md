@@ -15,9 +15,9 @@ For this project, I collected tourism data from all 34 districts of Telangana, c
 
 **Python** : version 3.9 , windows 11 , download from https://www.python.org/downloads/
 
-you can use Google Colab or Jupyter as Interpreter
+use Google Colab or Jupyter as Interpreter
 
-**Power BI** : Microsoft Tool , Desktop Vesion
+**Power BI** : Microsoft Tool , Desktop Vesion 
 
 
 # Objective 
